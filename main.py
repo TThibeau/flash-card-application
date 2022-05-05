@@ -1,7 +1,5 @@
-from email.mime import image
 from tkinter import *
-from random import randint,choice
-from tkinter import font
+from random import choice
 import pandas
 import os
 
