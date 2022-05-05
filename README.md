@@ -27,7 +27,7 @@
 ## About The Project
 
 <!-- [![FlashCardApp Screenshot][product-screenshot]](https://github.com/TThibeau/flash-card-application/blob/main/images/FlashCardApp.png) -->
-<img src="https://github.com/TThibeau/flash-card-application/blob/main/images/FlashCardApp.png" alt="FlashCardApp Screenshot" width="100"/>
+<img src="https://github.com/TThibeau/flash-card-application/blob/main/images/FlashCardApp.png" alt="FlashCardApp Screenshot" width="300"/>
 
 This small Flash Card Application can be used for studying the korean language quickly. The words shown in the flash cards are the most commonly used words in korean tv series. First, the korean word shows for 5 seconds. After this timer runs out, the card will flip and the english translation is shown. If the user guessed the translation right, then the ✅ needs to be clicked and the word will be removed from the list with 'words to be learned', if not guessed correctly the ❌ is pressed and the word will appear again at a later stage.
 <p align="right">(<a href="#top">back to top</a>)</p>
