@@ -42,20 +42,15 @@ This small Flash Card Application can be used for studying the korean language q
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+Install the prerequisite libraries: tkinter and pandas.
 ### Prerequisites
 
 Installing tkinter.
-* npm
   ```sh
   pip install tk
   ```
 
 Installing pandas.
-* npm
   ```sh
   pip install pandas
   ```
