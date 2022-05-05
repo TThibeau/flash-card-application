@@ -6,7 +6,7 @@ import pandas
 import os
 
 os.system('cls || clear')
-TIMER_LENGTH = 3
+TIMER_LENGTH = 5
 BACKGROUND_COLOR = "#B1DDC6"
 FONT_IT = ("Ariel",40,"italic")
 FONT_B = ("Ariel",60,"bold")
